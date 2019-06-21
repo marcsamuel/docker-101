@@ -1,0 +1,23 @@
+June 14, 2019 Friday
+
+Before starting to learn docker technology, please take a look of some overview of docker. This is for not the new learner to become an information overload.
+
+Docker History - https://www.youtube.com/watch?v=IhUvORodQAQ
+What is Docker? - https://www.youtube.com/watch?v=aLipr7tTuA4
+
+
+1. First Alpine Linux Containers - Explore the basics of running containers: pulling images from a registry, running an containerized application, and container instances and isolation. (Take note that you can run docker on your VM / EC2 instances (any cloud environment). Make sure that machine can able to connect to the internet). 
+https://training.play-with-docker.com/ops-s1-hello/
+
+2. Customizing Docker Images - Move on to building your own custom Docker images and explore the Docker concept of image layers and the Dockerfile.
+https://training.play-with-docker.com/ops-s1-images
+
+3. Deploy and Managing Multiple Containers (With the use of Docker Compose and Docker Swarm Mode) - Real apps consist of multiple components. In this lab you will begin to explore running multiple services as a single stack with Docker Swarm.
+https://training.play-with-docker.com/ops-s1-swarm-intro
+
+Some Additional useful resources:
+Docker file:
+https://www.howtoforge.com/tutorial/how-to-create-docker-images-with-dockerfile/
+
+Learn to create Dockerfile with Dockerfile example
+https://linuxtechlab.com/learn-create-dockerfile-example/?fbclid=IwAR04AVYBbZf6FJoxOZFu6G--paz6LNG2EJNdSLPhxaajln9vLIJaQZgQ9UI
